@@ -1,10 +1,10 @@
-# Speex
+ï»¿# Speex
 
-1. ±àÒëios°æ±¾
+1. ç¼–è¯‘iosç‰ˆæœ¬
 sudo ./build_ogg_ios.sh
 sudo build_speex_ios.sh
 
-2. ±àÒë°²×°°æ±¾
+2. ç¼–è¯‘å®‰è£…ç‰ˆæœ¬
 cd Android_speex
 ndk-build
 
