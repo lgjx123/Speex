@@ -23,4 +23,5 @@ LOCAL_C_INCLUDES:=$(curdir)\$(INC_DIR)
 #$(warning $(LOCAL_SRC_FILES))
 #$(warning $(LOCAL_C_INCLUDES))
 
-include $(BUILD_SHARED_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)
+include $(BUILD_STATIC_LIBRARY)
